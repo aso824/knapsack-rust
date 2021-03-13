@@ -1,0 +1,13 @@
+[package]
+name = "knapsack"
+version = "0.1.0"
+authors = ["Jan Szenborn <s16978@pjwstk.edu.pl>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1.0.124"
+serde_derive = "1.0.124"
+serde_json = "1.0.64"
+rand = "0.8.3"
